@@ -1,5 +1,6 @@
-# **Phonebook** with Redux
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75"/>
+
+# **Phonebook** with Redux
 
 
 
