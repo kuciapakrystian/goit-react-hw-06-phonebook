@@ -1,7 +1,7 @@
 # **Phonebook** with Redux
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75"/>
 
-## Description
+
 
 The Contact Book App is a React application that allows users to manage their contacts. This project was created as a part of a module in a @GoIT Fullstack developer bootcamp, focusing on React, Redux, Redux Persist, and Redux Toolkit.
 
