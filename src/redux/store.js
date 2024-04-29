@@ -15,7 +15,7 @@ import storage from 'redux-persist/lib/storage'; // defaults to localStorage for
 
 import { rootReducer } from './root-reducer';
 
-// об'єкт налаштувань, в якому записані, які дані зберігати в Local Storage
+
 const persistConfig = {
   key: 'root',
   storage,
@@ -35,5 +35,5 @@ export const store = configureStore({
     }),
 });
 
-// дані з локал сторіджа потрапляли відразу в redux під час завантаження
+
 export const persistor = persistStore(store);
